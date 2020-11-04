@@ -1,0 +1,8 @@
+# node_module 包
+/node_module
+
+#production 打包文件
+/dist
+
+node_modules
+dist
